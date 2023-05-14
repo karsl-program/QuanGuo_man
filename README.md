@@ -11,3 +11,5 @@
 > 
 > 3.0版本bug大修复版     These games are too hungry. 翻译：这些游戏太饿了。（同步更新在3.2版，更新于2023年5月13日）
 > 
+> 3.3     This is simply despicable! 翻译：这简直太可恶了！（预计更新于2023年5月19日之前）
+> 
